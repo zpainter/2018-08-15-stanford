@@ -3,15 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
-# swc: Software Carpentry
-# dc: Data Carpentry
-# lc: Library Carpentry
-# cp: Carpentries (to use for instructor traning for instance)
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Stanford Postdoc Software Carpentry Workshop August 2018"
 
+# Contact email address.
+email: rmoran@stanford.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

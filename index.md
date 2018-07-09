@@ -149,12 +149,7 @@ and our administrator may contact you if we need any extra information.</h4>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  Materials will be provided in advance of the workshop and we will do our best to accommodate special need requests in order to facilitate learning. Please notifying the organizers (contact details below) in advance, so they can discuss with you what can be provided.
 </p>
 
 {% comment %}

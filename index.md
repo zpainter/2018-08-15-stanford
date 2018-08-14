@@ -461,10 +461,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         download the <a href="{{https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe}}">
           {% if page.carpentry == "swc" %}
           Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
           {% endif %}
           Windows installer
 	</a>
